@@ -40,7 +40,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone [https://github.com/broccol1l/Logistics_Reporting_System](https://github.com/broccol1l/Logistics_Reporting_System)
+    git clone https://github.com/broccol1l/Logistics_Reporting_System
     cd Logistics_Reporting_System
     ```
 
